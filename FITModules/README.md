@@ -3,11 +3,13 @@
 Due to licensing issues, the actual FIT modules can not be included here. The following
 FIT modules are required to be located in the appropriate directories:
 
+```
 |
 +--r_bsp (tested with v5.61, changes necessary to platform.h)
 +--r_byteq (tested with v1.81)
 +--r_ether_rx (tested with v1.21)
 +--r_sci_rx (tested with v2.46)
+```
 
 # modification of r_bsp/platform.h
 
